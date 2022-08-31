@@ -2,9 +2,13 @@
 팀명 : I들<br>
 팀원 : 진승범(메인기능), 강준모(백), 김동호(프론트)<br>
 졸업작품 소개 사이트 : <b><a href="https://github.com/kimdongho321/capstone22">->추후 추가 예정</a></b><br>
-졸업작품 소개 : <b> <br><br>
 
-## <b>사용기술</b>
+## <b>졸업 작품 소개</b>
+작품명 : 
+작품 소개 :
+작품 특징 :
+
+## <b>개발환경</b>
 <span><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"></span>
