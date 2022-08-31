@@ -1,5 +1,5 @@
 # **졸업작품**
-팀명 : I들<br><br>
+팀명 : I들<br>
 팀원 : 진승범(메인기능), 강준모(백), 김동호(프론트)<br>
 졸업작품 소개 사이트 : <b><a href="https://github.com/kimdongho321/capstone22">-> Node-Express.js Version(v2.0.0)</a></b><br>
 졸업작품 소개 : <b> <br><br>
