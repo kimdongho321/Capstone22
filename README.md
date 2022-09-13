@@ -7,7 +7,7 @@
 작품명 : HANDSHAKE<br>
 작품 소개 : HANDSHAKE란 AI(Artificial-Intelligence)를 활용하여 청각장애인을 위한 대림대학교 정보 소개 Web Application 입니다.<br>
 HANDSHAKE는 사용자가 취하는 모습을 촬영 후 AI로 인식하여 원하는 기능을 맞추어 제공하는 웹 서비스입니다. <br>
-작품 특징 : 웹 캠에서 사용자의 손을 인식하여 <br>
+작품 특징 : 카메라를 통해 손 모양을 인식 하여 사용자가 촬영 시 AI로 손 모양을 인식하여 서비스 제공 <br>
 
 ## <b>개발환경</b>
 <span><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
