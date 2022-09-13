@@ -42,3 +42,9 @@ HANDSHAKE는 사용자가 취하는 모습을 촬영 후 AI로 인식하여 원�
 - IDE - IntelliJ IDEA Ultimate, Visual Studio Code
 
 ## <b>개발일지</b>
+
+<h1>09-13 회의내용</h1>
+- 웹 구조 : Main - Select - Campus(-Campus Detail) or Food or Calender. 추후 추가하고 싶은 페이지는 회의를 통해 결정 하기로 함
+- 기능 : AI에 반복된 이미지 학습으로 카메라 인식시 비슷한 이미지로 인식되면 결과 return (담당 :진승범)
+- 
+      
