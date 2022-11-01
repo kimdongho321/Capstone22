@@ -42,7 +42,7 @@ HANDSHAKE는 사용자가 취하는 모습을 촬영 후 AI로 인식하여 원�
 - IDE - IntelliJ IDEA Ultimate, Visual Studio Code
 
 ## <b>개발일지</b>
-<h3>10-19 회의내용</h3>
+<h3>10-26 회의내용</h3>
 - Food 페이지 데이터 추가<br><br>
 - Calendar 페이지 데이터 추가<br>
 - Food 페이지 Axios, Map함수를 사용한 슬라이드 구현 완성 시킬 것<br>
