@@ -41,7 +41,6 @@ HANDSHAKE는 사용자가 취하는 모습을 촬영 후 AI로 인식하여 원�
 - Version Control - Git, GitHub, Git Kraken
 - IDE - IntelliJ IDEA Ultimate, Visual Studio Code
 
-## <b>개발일지</b>
 <h3>11-02 회의내용</h3>
 - Food 페이지 Axios, Map함수를 사용한 슬라이드 구현 아직 완성시키지 못했으니 다른 부분부터 진행할 것<br>
 - Calendar 페이지 Axios를 사용한 달력에 데이터 삽입 완성<br>
